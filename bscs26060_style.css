@@ -1,0 +1,30 @@
+
+body {
+    background-color: rgb(231, 206, 157);
+}
+.PRODUCTS{
+    background-color:white;
+    width: 50%;
+    padding: 40px;
+    margin: 100px;
+    text-align: center;
+}
+.PRODUCTS img{
+    width: auto;
+    height: auto;
+}
+.CONTACTS {
+    background-color: white;
+    width: 50%;
+    padding: 40px;
+    margin: 100px;
+    text-align: center;
+}
+.socialmedia {
+    background-color:white;
+    width: 50%;
+
+    text-align: center;
+    padding: auto;
+}
+
